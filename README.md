@@ -1,12 +1,4 @@
-# 🌐 Portfólio de Sites
-
-Bem-vindo ao nosso portfólio! Aqui você encontra alguns dos sites e projetos desenvolvidos por nossa equipe, com foco em performance, design moderno e estratégias digitais personalizadas.
-
----
-
-## 📋 Projetos
-
-### 🖥️ UIDEX - Agência Digital
+# 🖥️ UIDEX - Agência Digital
 
 [![UIDEX Preview](./assets/uidex.png)]
 
